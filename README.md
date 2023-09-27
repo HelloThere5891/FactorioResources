@@ -23,6 +23,14 @@ Different sciences require different amounts of machines to produce the same rat
 ![Image](https://wiki.factorio.com/images/Production_science_pack.png)<sub>7 machines of any tier<sub/><br>
 ![Image](https://wiki.factorio.com/images/Utility_science_pack.png)<sub>7 machines of any tier<sub/>
 
+#General Tips
+- Do not create everything on site. Have some sort of main belt to transport commonly used resources.
+- USE ALT MODE! It displays the crafting output on machines and will make it so much easier to create your factories.
+- Create a "mall" that will produce commonly built items such as belts.
+- You do not always need the most efficient design off this website and others. Have fun and make your own!
+- If you're running low on a resource, DON'T IGNORE IT. Just make more!
+- Remember, the factory must grow.
+
 ### This project is a WIP and will be developed further in future updates!
 
 ## Copyright
