@@ -13,3 +13,7 @@ Belt balancers evenly distribute items over multiple belts.
 - All items are outputed evenly
 The most popular belt balancer is the 4x4.<br>
 ![Image](https://factoriocheatsheet.com/assets/images/balancer-4x4.webp)
+
+# Science Production Equality
+Different sciences require different amounts of machines to produce the same rate equally. Here are the ratios:<br>
+![Image](https://wiki.factorio.com/images/Automation_science_pack.png)<sub>5<sub/>
