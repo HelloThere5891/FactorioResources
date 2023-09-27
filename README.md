@@ -7,3 +7,9 @@ Yellow Belts: <img src="https://wiki.factorio.com/images/Transport_belt.png" alt
 Red Belts: <img src="https://wiki.factorio.com/images/Fast_transport_belt.png" alt="Red Belt" height="30" width="30"/> Both Sides: 30 | <img src="https://wiki.factorio.com/images/Fast_underground_belt.png" alt="Red Underground Belt" height="30" width="30"/> Underground Distance: 6<br>
 Blue Belts: <img src="https://wiki.factorio.com/images/Express_transport_belt.png" alt="Blue Belt" height="30" width="30"/> Both Sides: 45 | <img src="https://wiki.factorio.com/images/Express_underground_belt.png" alt="Blue Underground Belt" height="30" width="30"/> Underground Distance: 8<br>
 
+# Belt Balancer
+Belt balancers evenly distribute items over multiple belts.
+- All items are take evenly
+- All items are outputed evenly
+The most popular belt balancer is the 4x4.<br>
+![Image](https://factoriocheatsheet.com/assets/images/balancer-4x4.webp)
