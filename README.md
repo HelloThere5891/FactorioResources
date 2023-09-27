@@ -3,4 +3,4 @@ Factorio is a 2020 videogame released by Czech Studio Wube Software where you bu
 
 # Belt Thouroughput
 All info will be in the rate of items/sec.<br>
-Yellow Belts: ![Image](https://wiki.factorio.com/images/Transport_belt.png) Both 
+Yellow Belts: <img src="https://wiki.factorio.com/images/Transport_belt.png" alt="Yellow Belt" height="100" width="100"/> Both 
