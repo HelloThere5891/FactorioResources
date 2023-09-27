@@ -1,4 +1,4 @@
-# <img src="https://wiki.factorio.com/images/Factorio-logo.png" alt="Factorio" height="51" width="307"/> Overview
+# Factorio Overview
 Factorio is a 2020 videogame released by Czech Studio Wube Software where you build and maintain automatic factories to launch a rocket and produce "science." With the game being in the sandbox genre, many designs of machine layouts are possible. This website will provide recommended layouts and tips for optimal production.
 
 # Belt Thouroughput
