@@ -16,9 +16,9 @@ The most popular belt balancer is the 4x4.<br>
 
 # Science Production Equality
 Different sciences require different amounts of machines to produce the same rate equally. Here are the ratios:<br>
-![Image](https://wiki.factorio.com/images/Automation_science_pack.png)<sub>5<sub/><br>
-![Image](https://wiki.factorio.com/images/Logistic_science_pack.png)<sub>6<sub/><br>
-![Image](https://wiki.factorio.com/images/Military_science_pack.png)<sub>5<sub/><br>
-![Image](https://wiki.factorio.com/images/Chemical_science_pack.png)<sub>12<sub/><br>
-![Image](https://wiki.factorio.com/images/Production_science_pack.png)<sub>7<sub/><br>
-![Image](https://wiki.factorio.com/images/Utility_science_pack.png)<sub>7<sub/><br>
+![Image](https://wiki.factorio.com/images/Automation_science_pack.png)<sub>5 machines of any tier<sub/><br>
+![Image](https://wiki.factorio.com/images/Logistic_science_pack.png)<sub>6 machines of any tier<sub/><br>
+![Image](https://wiki.factorio.com/images/Military_science_pack.png)<sub>5 machines of any tier<sub/><br>
+![Image](https://wiki.factorio.com/images/Chemical_science_pack.png)<sub>12 machines of any tier<sub/><br>
+![Image](https://wiki.factorio.com/images/Production_science_pack.png)<sub>7 machines of any tier<sub/><br>
+![Image](https://wiki.factorio.com/images/Utility_science_pack.png)<sub>7 machines of any tier<sub/>
